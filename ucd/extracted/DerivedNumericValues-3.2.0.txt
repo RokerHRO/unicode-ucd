@@ -1,9 +1,9 @@
-# DerivedNumericValues-3.1.0.txt
+# DerivedNumericValues-3.2.0.txt
 #
 # Unicode Character Database: Derived Property Data
 # Generated algorithmically from the Unicode Character Database
 # For documentation, see DerivedProperties.html
-# Date: 2001-03-02 00:05:16.3 GMT [MD]
+# Date: 2001-12-09 00:41:00.7 GMT [MD]
 # Note: Unassigned and Noncharacter codepoints are omitted,
 #       except when listing Noncharacter or Cn.
 # ================================================
@@ -153,6 +153,7 @@ FF10          ; 0.0; decimal # Nd       FULLWIDTH DIGIT ZERO
 2460          ; 1.0; digit # No       CIRCLED DIGIT ONE
 2474          ; 1.0; digit # No       PARENTHESIZED DIGIT ONE
 2488          ; 1.0; digit # No       DIGIT ONE FULL STOP
+24F5          ; 1.0; digit # No       DOUBLE CIRCLED DIGIT ONE
 2776          ; 1.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT ONE
 2780          ; 1.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT ONE
 278A          ; 1.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE
@@ -168,7 +169,7 @@ FF11          ; 1.0; decimal # Nd       FULLWIDTH DIGIT ONE
 1D7ED         ; 1.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT ONE
 1D7F7         ; 1.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT ONE
 
-# Total code points: 42
+# Total code points: 43
 
 
 0F2B          ; 1.5; numeric # No       TIBETAN DIGIT HALF TWO
@@ -203,6 +204,7 @@ FF11          ; 1.0; decimal # Nd       FULLWIDTH DIGIT ONE
 2461          ; 2.0; digit # No       CIRCLED DIGIT TWO
 2475          ; 2.0; digit # No       PARENTHESIZED DIGIT TWO
 2489          ; 2.0; digit # No       DIGIT TWO FULL STOP
+24F6          ; 2.0; digit # No       DOUBLE CIRCLED DIGIT TWO
 2777          ; 2.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT TWO
 2781          ; 2.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT TWO
 278B          ; 2.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO
@@ -217,7 +219,7 @@ FF12          ; 2.0; decimal # Nd       FULLWIDTH DIGIT TWO
 1D7EE         ; 2.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT TWO
 1D7F8         ; 2.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT TWO
 
-# Total code points: 40
+# Total code points: 41
 
 
 0F2C          ; 2.5; numeric # No       TIBETAN DIGIT HALF THREE
@@ -252,6 +254,7 @@ FF12          ; 2.0; decimal # Nd       FULLWIDTH DIGIT TWO
 2462          ; 3.0; digit # No       CIRCLED DIGIT THREE
 2476          ; 3.0; digit # No       PARENTHESIZED DIGIT THREE
 248A          ; 3.0; digit # No       DIGIT THREE FULL STOP
+24F7          ; 3.0; digit # No       DOUBLE CIRCLED DIGIT THREE
 2778          ; 3.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT THREE
 2782          ; 3.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT THREE
 278C          ; 3.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE
@@ -266,7 +269,7 @@ FF13          ; 3.0; decimal # Nd       FULLWIDTH DIGIT THREE
 1D7EF         ; 3.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT THREE
 1D7F9         ; 3.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT THREE
 
-# Total code points: 40
+# Total code points: 41
 
 
 0F2D          ; 3.5; numeric # No       TIBETAN DIGIT HALF FOUR
@@ -301,6 +304,7 @@ FF13          ; 3.0; decimal # Nd       FULLWIDTH DIGIT THREE
 2463          ; 4.0; digit # No       CIRCLED DIGIT FOUR
 2477          ; 4.0; digit # No       PARENTHESIZED DIGIT FOUR
 248B          ; 4.0; digit # No       DIGIT FOUR FULL STOP
+24F8          ; 4.0; digit # No       DOUBLE CIRCLED DIGIT FOUR
 2779          ; 4.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT FOUR
 2783          ; 4.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT FOUR
 278D          ; 4.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR
@@ -315,7 +319,7 @@ FF14          ; 4.0; decimal # Nd       FULLWIDTH DIGIT FOUR
 1D7F0         ; 4.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT FOUR
 1D7FA         ; 4.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT FOUR
 
-# Total code points: 40
+# Total code points: 41
 
 
 0F2E          ; 4.5; numeric # No       TIBETAN DIGIT HALF FIVE
@@ -349,6 +353,7 @@ FF14          ; 4.0; decimal # Nd       FULLWIDTH DIGIT FOUR
 2464          ; 5.0; digit # No       CIRCLED DIGIT FIVE
 2478          ; 5.0; digit # No       PARENTHESIZED DIGIT FIVE
 248C          ; 5.0; digit # No       DIGIT FIVE FULL STOP
+24F9          ; 5.0; digit # No       DOUBLE CIRCLED DIGIT FIVE
 277A          ; 5.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT FIVE
 2784          ; 5.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT FIVE
 278E          ; 5.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE
@@ -363,7 +368,7 @@ FF15          ; 5.0; decimal # Nd       FULLWIDTH DIGIT FIVE
 1D7F1         ; 5.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT FIVE
 1D7FB         ; 5.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT FIVE
 
-# Total code points: 39
+# Total code points: 40
 
 
 0F2F          ; 5.5; numeric # No       TIBETAN DIGIT HALF SIX
@@ -397,6 +402,7 @@ FF15          ; 5.0; decimal # Nd       FULLWIDTH DIGIT FIVE
 2465          ; 6.0; digit # No       CIRCLED DIGIT SIX
 2479          ; 6.0; digit # No       PARENTHESIZED DIGIT SIX
 248D          ; 6.0; digit # No       DIGIT SIX FULL STOP
+24FA          ; 6.0; digit # No       DOUBLE CIRCLED DIGIT SIX
 277B          ; 6.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT SIX
 2785          ; 6.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT SIX
 278F          ; 6.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX
@@ -410,7 +416,7 @@ FF16          ; 6.0; decimal # Nd       FULLWIDTH DIGIT SIX
 1D7F2         ; 6.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT SIX
 1D7FC         ; 6.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT SIX
 
-# Total code points: 38
+# Total code points: 39
 
 
 0F30          ; 6.5; numeric # No       TIBETAN DIGIT HALF SEVEN
@@ -444,6 +450,7 @@ FF16          ; 6.0; decimal # Nd       FULLWIDTH DIGIT SIX
 2466          ; 7.0; digit # No       CIRCLED DIGIT SEVEN
 247A          ; 7.0; digit # No       PARENTHESIZED DIGIT SEVEN
 248E          ; 7.0; digit # No       DIGIT SEVEN FULL STOP
+24FB          ; 7.0; digit # No       DOUBLE CIRCLED DIGIT SEVEN
 277C          ; 7.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT SEVEN
 2786          ; 7.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN
 2790          ; 7.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN
@@ -457,7 +464,7 @@ FF17          ; 7.0; decimal # Nd       FULLWIDTH DIGIT SEVEN
 1D7F3         ; 7.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT SEVEN
 1D7FD         ; 7.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT SEVEN
 
-# Total code points: 38
+# Total code points: 39
 
 
 0F31          ; 7.5; numeric # No       TIBETAN DIGIT HALF EIGHT
@@ -491,6 +498,7 @@ FF17          ; 7.0; decimal # Nd       FULLWIDTH DIGIT SEVEN
 2467          ; 8.0; digit # No       CIRCLED DIGIT EIGHT
 247B          ; 8.0; digit # No       PARENTHESIZED DIGIT EIGHT
 248F          ; 8.0; digit # No       DIGIT EIGHT FULL STOP
+24FC          ; 8.0; digit # No       DOUBLE CIRCLED DIGIT EIGHT
 277D          ; 8.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
 2787          ; 8.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT
 2791          ; 8.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT
@@ -504,7 +512,7 @@ FF18          ; 8.0; decimal # Nd       FULLWIDTH DIGIT EIGHT
 1D7F4         ; 8.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT EIGHT
 1D7FE         ; 8.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT EIGHT
 
-# Total code points: 38
+# Total code points: 39
 
 
 0F32          ; 8.5; numeric # No       TIBETAN DIGIT HALF NINE
@@ -538,6 +546,7 @@ FF18          ; 8.0; decimal # Nd       FULLWIDTH DIGIT EIGHT
 2468          ; 9.0; digit # No       CIRCLED DIGIT NINE
 247C          ; 9.0; digit # No       PARENTHESIZED DIGIT NINE
 2490          ; 9.0; digit # No       DIGIT NINE FULL STOP
+24FD          ; 9.0; digit # No       DOUBLE CIRCLED DIGIT NINE
 277E          ; 9.0; digit # No       DINGBAT NEGATIVE CIRCLED DIGIT NINE
 2788          ; 9.0; digit # No       DINGBAT CIRCLED SANS-SERIF DIGIT NINE
 2792          ; 9.0; digit # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE
@@ -551,7 +560,7 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 1D7F5         ; 9.0; decimal # Nd       MATHEMATICAL SANS-SERIF BOLD DIGIT NINE
 1D7FF         ; 9.0; decimal # Nd       MATHEMATICAL MONOSPACE DIGIT NINE
 
-# Total code points: 38
+# Total code points: 39
 
 
 0BF0          ; 10.0; numeric # No       TAMIL NUMBER TEN
@@ -561,6 +570,7 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 2469          ; 10.0; numeric # No       CIRCLED NUMBER TEN
 247D          ; 10.0; numeric # No       PARENTHESIZED NUMBER TEN
 2491          ; 10.0; numeric # No       NUMBER TEN FULL STOP
+24FE          ; 10.0; numeric # No       DOUBLE CIRCLED NUMBER TEN
 277F          ; 10.0; numeric # No       DINGBAT NEGATIVE CIRCLED NUMBER TEN
 2789          ; 10.0; numeric # No       DINGBAT CIRCLED SANS-SERIF NUMBER TEN
 2793          ; 10.0; numeric # No       DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN
@@ -569,7 +579,7 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 3289          ; 10.0; numeric # No       CIRCLED IDEOGRAPH TEN
 10322         ; 10.0; numeric # No       OLD ITALIC NUMERAL TEN
 
-# Total code points: 14
+# Total code points: 15
 
 
 216A          ; 11.0; numeric # Nl       ROMAN NUMERAL ELEVEN
@@ -577,8 +587,9 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 246A          ; 11.0; numeric # No       CIRCLED NUMBER ELEVEN
 247E          ; 11.0; numeric # No       PARENTHESIZED NUMBER ELEVEN
 2492          ; 11.0; numeric # No       NUMBER ELEVEN FULL STOP
+24EB          ; 11.0; numeric # No       NEGATIVE CIRCLED NUMBER ELEVEN
 
-# Total code points: 5
+# Total code points: 6
 
 
 216B          ; 12.0; numeric # Nl       ROMAN NUMERAL TWELVE
@@ -586,79 +597,225 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 246B          ; 12.0; numeric # No       CIRCLED NUMBER TWELVE
 247F          ; 12.0; numeric # No       PARENTHESIZED NUMBER TWELVE
 2493          ; 12.0; numeric # No       NUMBER TWELVE FULL STOP
+24EC          ; 12.0; numeric # No       NEGATIVE CIRCLED NUMBER TWELVE
 
-# Total code points: 5
+# Total code points: 6
 
 
 246C          ; 13.0; numeric # No       CIRCLED NUMBER THIRTEEN
 2480          ; 13.0; numeric # No       PARENTHESIZED NUMBER THIRTEEN
 2494          ; 13.0; numeric # No       NUMBER THIRTEEN FULL STOP
+24ED          ; 13.0; numeric # No       NEGATIVE CIRCLED NUMBER THIRTEEN
 
-# Total code points: 3
+# Total code points: 4
 
 
 246D          ; 14.0; numeric # No       CIRCLED NUMBER FOURTEEN
 2481          ; 14.0; numeric # No       PARENTHESIZED NUMBER FOURTEEN
 2495          ; 14.0; numeric # No       NUMBER FOURTEEN FULL STOP
+24EE          ; 14.0; numeric # No       NEGATIVE CIRCLED NUMBER FOURTEEN
 
-# Total code points: 3
+# Total code points: 4
 
 
 246E          ; 15.0; numeric # No       CIRCLED NUMBER FIFTEEN
 2482          ; 15.0; numeric # No       PARENTHESIZED NUMBER FIFTEEN
 2496          ; 15.0; numeric # No       NUMBER FIFTEEN FULL STOP
+24EF          ; 15.0; numeric # No       NEGATIVE CIRCLED NUMBER FIFTEEN
 
-# Total code points: 3
+# Total code points: 4
 
 
 09F9          ; 16.0; numeric # No       BENGALI CURRENCY DENOMINATOR SIXTEEN
 246F          ; 16.0; numeric # No       CIRCLED NUMBER SIXTEEN
 2483          ; 16.0; numeric # No       PARENTHESIZED NUMBER SIXTEEN
 2497          ; 16.0; numeric # No       NUMBER SIXTEEN FULL STOP
+24F0          ; 16.0; numeric # No       NEGATIVE CIRCLED NUMBER SIXTEEN
 
-# Total code points: 4
+# Total code points: 5
 
 
 16EE          ; 17.0; numeric # Nl       RUNIC ARLAUG SYMBOL
 2470          ; 17.0; numeric # No       CIRCLED NUMBER SEVENTEEN
 2484          ; 17.0; numeric # No       PARENTHESIZED NUMBER SEVENTEEN
 2498          ; 17.0; numeric # No       NUMBER SEVENTEEN FULL STOP
+24F1          ; 17.0; numeric # No       NEGATIVE CIRCLED NUMBER SEVENTEEN
 
-# Total code points: 4
+# Total code points: 5
 
 
 16EF          ; 18.0; numeric # Nl       RUNIC TVIMADUR SYMBOL
 2471          ; 18.0; numeric # No       CIRCLED NUMBER EIGHTEEN
 2485          ; 18.0; numeric # No       PARENTHESIZED NUMBER EIGHTEEN
 2499          ; 18.0; numeric # No       NUMBER EIGHTEEN FULL STOP
+24F2          ; 18.0; numeric # No       NEGATIVE CIRCLED NUMBER EIGHTEEN
 
-# Total code points: 4
+# Total code points: 5
 
 
 16F0          ; 19.0; numeric # Nl       RUNIC BELGTHOR SYMBOL
 2472          ; 19.0; numeric # No       CIRCLED NUMBER NINETEEN
 2486          ; 19.0; numeric # No       PARENTHESIZED NUMBER NINETEEN
 249A          ; 19.0; numeric # No       NUMBER NINETEEN FULL STOP
+24F3          ; 19.0; numeric # No       NEGATIVE CIRCLED NUMBER NINETEEN
 
-# Total code points: 4
+# Total code points: 5
 
 
 1373          ; 20.0; numeric # No       ETHIOPIC NUMBER TWENTY
 2473          ; 20.0; numeric # No       CIRCLED NUMBER TWENTY
 2487          ; 20.0; numeric # No       PARENTHESIZED NUMBER TWENTY
 249B          ; 20.0; numeric # No       NUMBER TWENTY FULL STOP
+24F4          ; 20.0; numeric # No       NEGATIVE CIRCLED NUMBER TWENTY
 3039          ; 20.0; numeric # Nl       HANGZHOU NUMERAL TWENTY
 
-# Total code points: 5
+# Total code points: 6
+
+
+3251          ; 21.0; numeric # No       CIRCLED NUMBER TWENTY ONE
+
+# Total code points: 1
+
+
+3252          ; 22.0; numeric # No       CIRCLED NUMBER TWENTY TWO
+
+# Total code points: 1
+
+
+3253          ; 23.0; numeric # No       CIRCLED NUMBER TWENTY THREE
+
+# Total code points: 1
+
+
+3254          ; 24.0; numeric # No       CIRCLED NUMBER TWENTY FOUR
+
+# Total code points: 1
+
+
+3255          ; 25.0; numeric # No       CIRCLED NUMBER TWENTY FIVE
+
+# Total code points: 1
+
+
+3256          ; 26.0; numeric # No       CIRCLED NUMBER TWENTY SIX
+
+# Total code points: 1
+
+
+3257          ; 27.0; numeric # No       CIRCLED NUMBER TWENTY SEVEN
+
+# Total code points: 1
+
+
+3258          ; 28.0; numeric # No       CIRCLED NUMBER TWENTY EIGHT
+
+# Total code points: 1
+
+
+3259          ; 29.0; numeric # No       CIRCLED NUMBER TWENTY NINE
+
+# Total code points: 1
 
 
 1374          ; 30.0; numeric # No       ETHIOPIC NUMBER THIRTY
 303A          ; 30.0; numeric # Nl       HANGZHOU NUMERAL THIRTY
+325A          ; 30.0; numeric # No       CIRCLED NUMBER THIRTY
+
+# Total code points: 3
+
+
+325B          ; 31.0; numeric # No       CIRCLED NUMBER THIRTY ONE
+
+# Total code points: 1
+
+
+325C          ; 32.0; numeric # No       CIRCLED NUMBER THIRTY TWO
+
+# Total code points: 1
+
+
+325D          ; 33.0; numeric # No       CIRCLED NUMBER THIRTY THREE
+
+# Total code points: 1
+
+
+325E          ; 34.0; numeric # No       CIRCLED NUMBER THIRTY FOUR
+
+# Total code points: 1
+
+
+325F          ; 35.0; numeric # No       CIRCLED NUMBER THIRTY FIVE
+
+# Total code points: 1
+
+
+32B1          ; 36.0; numeric # No       CIRCLED NUMBER THIRTY SIX
+
+# Total code points: 1
+
+
+32B2          ; 37.0; numeric # No       CIRCLED NUMBER THIRTY SEVEN
+
+# Total code points: 1
+
+
+32B3          ; 38.0; numeric # No       CIRCLED NUMBER THIRTY EIGHT
+
+# Total code points: 1
+
+
+32B4          ; 39.0; numeric # No       CIRCLED NUMBER THIRTY NINE
+
+# Total code points: 1
+
+
+1375          ; 40.0; numeric # No       ETHIOPIC NUMBER FORTY
+32B5          ; 40.0; numeric # No       CIRCLED NUMBER FORTY
 
 # Total code points: 2
 
 
-1375          ; 40.0; numeric # No       ETHIOPIC NUMBER FORTY
+32B6          ; 41.0; numeric # No       CIRCLED NUMBER FORTY ONE
+
+# Total code points: 1
+
+
+32B7          ; 42.0; numeric # No       CIRCLED NUMBER FORTY TWO
+
+# Total code points: 1
+
+
+32B8          ; 43.0; numeric # No       CIRCLED NUMBER FORTY THREE
+
+# Total code points: 1
+
+
+32B9          ; 44.0; numeric # No       CIRCLED NUMBER FORTY FOUR
+
+# Total code points: 1
+
+
+32BA          ; 45.0; numeric # No       CIRCLED NUMBER FORTY FIVE
+
+# Total code points: 1
+
+
+32BB          ; 46.0; numeric # No       CIRCLED NUMBER FORTY SIX
+
+# Total code points: 1
+
+
+32BC          ; 47.0; numeric # No       CIRCLED NUMBER FORTY SEVEN
+
+# Total code points: 1
+
+
+32BD          ; 48.0; numeric # No       CIRCLED NUMBER FORTY EIGHT
+
+# Total code points: 1
+
+
+32BE          ; 49.0; numeric # No       CIRCLED NUMBER FORTY NINE
 
 # Total code points: 1
 
@@ -666,9 +823,10 @@ FF19          ; 9.0; decimal # Nd       FULLWIDTH DIGIT NINE
 1376          ; 50.0; numeric # No       ETHIOPIC NUMBER FIFTY
 216C          ; 50.0; numeric # Nl       ROMAN NUMERAL FIFTY
 217C          ; 50.0; numeric # Nl       SMALL ROMAN NUMERAL FIFTY
+32BF          ; 50.0; numeric # No       CIRCLED NUMBER FIFTY
 10323         ; 50.0; numeric # No       OLD ITALIC NUMERAL FIFTY
 
-# Total code points: 4
+# Total code points: 5
 
 
 1377          ; 60.0; numeric # No       ETHIOPIC NUMBER SIXTY

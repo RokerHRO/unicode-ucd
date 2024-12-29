@@ -1,9 +1,9 @@
-# DerivedDecompositionType-3.1.0.txt
+# DerivedDecompositionType-3.2.0.txt
+# Date: 2002-03-19,23:30:45 GMT [MD]
 #
 # Unicode Character Database: Derived Property Data
 # Generated algorithmically from the Unicode Character Database
 # For documentation, see DerivedProperties.html
-# Date: 2001-03-02 00:04:17.7 GMT [MD]
 # Note: Unassigned and Noncharacter codepoints are omitted,
 #       except when listing Noncharacter or Cn.
 # ================================================
@@ -170,6 +170,7 @@
 22EA..22ED    ; canonical # Sm   [4] NOT NORMAL SUBGROUP OF..DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL
 2329          ; canonical # Ps       LEFT-POINTING ANGLE BRACKET
 232A          ; canonical # Pe       RIGHT-POINTING ANGLE BRACKET
+2ADC          ; canonical # Sm       FORKING
 304C          ; canonical # Lo       HIRAGANA LETTER GA
 304E          ; canonical # Lo       HIRAGANA LETTER GI
 3050          ; canonical # Lo       HIRAGANA LETTER GU
@@ -224,6 +225,7 @@ FA20          ; canonical # Lo       CJK COMPATIBILITY IDEOGRAPH-FA20
 FA22          ; canonical # Lo       CJK COMPATIBILITY IDEOGRAPH-FA22
 FA25..FA26    ; canonical # Lo   [2] CJK COMPATIBILITY IDEOGRAPH-FA25..CJK COMPATIBILITY IDEOGRAPH-FA26
 FA2A..FA2D    ; canonical # Lo   [4] CJK COMPATIBILITY IDEOGRAPH-FA2A..CJK COMPATIBILITY IDEOGRAPH-FA2D
+FA30..FA6A    ; canonical # Lo  [59] CJK COMPATIBILITY IDEOGRAPH-FA30..CJK COMPATIBILITY IDEOGRAPH-FA6A
 FB1D          ; canonical # Lo       HEBREW LETTER YOD WITH HIRIQ
 FB1F          ; canonical # Lo       HEBREW LIGATURE YIDDISH YOD YOD PATAH
 FB2A..FB36    ; canonical # Lo  [13] HEBREW LETTER SHIN WITH SHIN DOT..HEBREW LETTER ZAYIN WITH DAGESH
@@ -236,7 +238,7 @@ FB46..FB4E    ; canonical # Lo   [9] HEBREW LETTER TSADI WITH DAGESH..HEBREW LET
 1D1BB..1D1C0  ; canonical # So   [6] MUSICAL SYMBOL MINIMA..MUSICAL SYMBOL FUSA BLACK
 2F800..2FA1D  ; canonical # Lo [542] CJK COMPATIBILITY IDEOGRAPH-2F800..CJK COMPATIBILITY IDEOGRAPH-2FA1D
 
-# Total code points: 13038
+# Total code points: 13098
 
 # ================================================
 
@@ -277,7 +279,9 @@ FB46..FB4E    ; canonical # Lo   [9] HEBREW LETTER TSADI WITH DAGESH..HEBREW LET
 2036..2037    ; compat # Po   [2] REVERSED DOUBLE PRIME..REVERSED TRIPLE PRIME
 203C          ; compat # Po       DOUBLE EXCLAMATION MARK
 203E          ; compat # Po       OVERLINE
-2048..2049    ; compat # Po   [2] QUESTION EXCLAMATION MARK..EXCLAMATION QUESTION MARK
+2047..2049    ; compat # Po   [3] DOUBLE QUESTION MARK..EXCLAMATION QUESTION MARK
+2057          ; compat # Po       QUADRUPLE PRIME
+205F          ; compat # Zs       MEDIUM MATHEMATICAL SPACE
 20A8          ; compat # Sc       RUPEE SIGN
 2100..2101    ; compat # So   [2] ACCOUNT OF..ADDRESSED TO THE SUBJECT
 2103          ; compat # So       DEGREE CELSIUS
@@ -292,6 +296,8 @@ FB46..FB4E    ; canonical # Lo   [9] HEBREW LETTER TSADI WITH DAGESH..HEBREW LET
 222F..2230    ; compat # Sm   [2] SURFACE INTEGRAL..VOLUME INTEGRAL
 2474..249B    ; compat # No  [40] PARENTHESIZED DIGIT ONE..NUMBER TWENTY FULL STOP
 249C..24B5    ; compat # So  [26] PARENTHESIZED LATIN SMALL LETTER A..PARENTHESIZED LATIN SMALL LETTER Z
+2A0C          ; compat # Sm       QUADRUPLE INTEGRAL OPERATOR
+2A74..2A76    ; compat # Sm   [3] DOUBLE COLON EQUAL..THREE CONSECUTIVE EQUALS SIGNS
 2E9F          ; compat # So       CJK RADICAL MOTHER
 2EF3          ; compat # So       CJK RADICAL C-SIMPLIFIED TURTLE
 2F00..2FD5    ; compat # So [214] KANGXI RADICAL ONE..KANGXI RADICAL FLUTE
@@ -311,7 +317,7 @@ FB4F          ; compat # Lo       HEBREW LIGATURE ALEF LAMED
 FE49..FE4C    ; compat # Po   [4] DASHED OVERLINE..DOUBLE WAVY OVERLINE
 FE4D..FE4F    ; compat # Pc   [3] DASHED LOW LINE..WAVY LOW LINE
 
-# Total code points: 662
+# Total code points: 669
 
 # ================================================
 
@@ -325,6 +331,9 @@ FE4D..FE4F    ; compat # Pc   [3] DASHED LOW LINE..WAVY LOW LINE
 212F..2131    ; font # L&   [3] SCRIPT SMALL E..SCRIPT CAPITAL F
 2133..2134    ; font # L&   [2] SCRIPT CAPITAL M..SCRIPT SMALL O
 2139          ; font # L&       INFORMATION SOURCE
+213D..213F    ; font # L&   [3] DOUBLE-STRUCK SMALL GAMMA..DOUBLE-STRUCK CAPITAL PI
+2140          ; font # Sm       DOUBLE-STRUCK N-ARY SUMMATION
+2145..2149    ; font # L&   [5] DOUBLE-STRUCK ITALIC CAPITAL D..DOUBLE-STRUCK ITALIC SMALL J
 FB20..FB28    ; font # Lo   [9] HEBREW LETTER ALTERNATIVE AYIN..HEBREW LETTER WIDE TAV
 FB29          ; font # Sm       HEBREW LETTER ALTERNATIVE PLUS SIGN
 1D400..1D454  ; font # L&  [85] MATHEMATICAL BOLD CAPITAL A..MATHEMATICAL ITALIC SMALL G
@@ -370,7 +379,7 @@ FB29          ; font # Sm       HEBREW LETTER ALTERNATIVE PLUS SIGN
 1D7C4..1D7C9  ; font # L&   [6] MATHEMATICAL SANS-SERIF BOLD ITALIC EPSILON SYMBOL..MATHEMATICAL SANS-SERIF BOLD ITALIC PI SYMBOL
 1D7CE..1D7FF  ; font # Nd  [50] MATHEMATICAL BOLD DIGIT ZERO..MATHEMATICAL MONOSPACE DIGIT NINE
 
-# Total code points: 1028
+# Total code points: 1037
 
 # ================================================
 
@@ -692,6 +701,7 @@ FC00..FC63    ; isolated # Lo [100] ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH JE
 FCF5..FD10    ; isolated # Lo  [28] ARABIC LIGATURE TAH WITH ALEF MAKSURA ISOLATED FORM..ARABIC LIGATURE DAD WITH REH ISOLATED FORM
 FD3D          ; isolated # Lo       ARABIC LIGATURE ALEF WITH FATHATAN ISOLATED FORM
 FDF0..FDFB    ; isolated # Lo  [12] ARABIC LIGATURE SALLA USED AS KORANIC STOP SIGN ISOLATED FORM..ARABIC LIGATURE JALLAJALALOUHOU
+FDFC          ; isolated # Sc       RIAL SIGN
 FE70          ; isolated # Lo       ARABIC FATHATAN ISOLATED FORM
 FE72          ; isolated # Lo       ARABIC DAMMATAN ISOLATED FORM
 FE74          ; isolated # Lo       ARABIC KASRATAN ISOLATED FORM
@@ -740,19 +750,21 @@ FEF7          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABO
 FEF9          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM
 FEFB          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
 
-# Total code points: 237
+# Total code points: 238
 
 # ================================================
 
 2460..2473    ; circle # No  [20] CIRCLED DIGIT ONE..CIRCLED NUMBER TWENTY
 24B6..24E9    ; circle # So  [52] CIRCLED LATIN CAPITAL LETTER A..CIRCLED LATIN SMALL LETTER Z
 24EA          ; circle # No       CIRCLED DIGIT ZERO
+3251..325F    ; circle # No  [15] CIRCLED NUMBER TWENTY ONE..CIRCLED NUMBER THIRTY FIVE
 3260..327B    ; circle # So  [28] CIRCLED HANGUL KIYEOK..CIRCLED HANGUL HIEUH A
 3280..3289    ; circle # No  [10] CIRCLED IDEOGRAPH ONE..CIRCLED IDEOGRAPH TEN
 328A..32B0    ; circle # So  [39] CIRCLED IDEOGRAPH MOON..CIRCLED IDEOGRAPH NIGHT
+32B1..32BF    ; circle # No  [15] CIRCLED NUMBER THIRTY SIX..CIRCLED NUMBER FIFTY
 32D0..32FE    ; circle # So  [47] CIRCLED KATAKANA A..CIRCLED KATAKANA WO
 
-# Total code points: 197
+# Total code points: 227
 
 # ================================================
 
@@ -763,6 +775,7 @@ FEFB          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
 02B0..02B8    ; super # Lm   [9] MODIFIER LETTER SMALL H..MODIFIER LETTER SMALL Y
 02E0..02E4    ; super # Lm   [5] MODIFIER LETTER SMALL GAMMA..MODIFIER LETTER SMALL REVERSED GLOTTAL STOP
 2070          ; super # No       SUPERSCRIPT ZERO
+2071          ; super # L&       SUPERSCRIPT LATIN SMALL LETTER I
 2074..2079    ; super # No   [6] SUPERSCRIPT FOUR..SUPERSCRIPT NINE
 207A..207C    ; super # Sm   [3] SUPERSCRIPT PLUS SIGN..SUPERSCRIPT EQUALS SIGN
 207D          ; super # Ps       SUPERSCRIPT LEFT PARENTHESIS
@@ -773,7 +786,7 @@ FEFB          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
 3192..3195    ; super # No   [4] IDEOGRAPHIC ANNOTATION ONE MARK..IDEOGRAPHIC ANNOTATION FOUR MARK
 3196..319F    ; super # So  [10] IDEOGRAPHIC ANNOTATION TOP MARK..IDEOGRAPHIC ANNOTATION MAN MARK
 
-# Total code points: 48
+# Total code points: 49
 
 # ================================================
 
@@ -786,6 +799,8 @@ FEFB          ; isolated # Lo       ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
 
 # ================================================
 
+309F          ; vertical # Lo       HIRAGANA DIGRAPH YORI
+30FF          ; vertical # Lo       KATAKANA DIGRAPH KOTO
 FE30          ; vertical # Po       PRESENTATION FORM FOR VERTICAL TWO DOT LEADER
 FE31..FE32    ; vertical # Pd   [2] PRESENTATION FORM FOR VERTICAL EM DASH..PRESENTATION FORM FOR VERTICAL EN DASH
 FE33..FE34    ; vertical # Pc   [2] PRESENTATION FORM FOR VERTICAL LOW LINE..PRESENTATION FORM FOR VERTICAL WAVY LOW LINE
@@ -806,7 +821,7 @@ FE42          ; vertical # Pe       PRESENTATION FORM FOR VERTICAL RIGHT CORNER 
 FE43          ; vertical # Ps       PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET
 FE44          ; vertical # Pe       PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET
 
-# Total code points: 21
+# Total code points: 23
 
 # ================================================
 
@@ -837,13 +852,15 @@ FF5B          ; wide # Ps       FULLWIDTH LEFT CURLY BRACKET
 FF5C          ; wide # Sm       FULLWIDTH VERTICAL LINE
 FF5D          ; wide # Pe       FULLWIDTH RIGHT CURLY BRACKET
 FF5E          ; wide # Sm       FULLWIDTH TILDE
+FF5F          ; wide # Ps       FULLWIDTH LEFT WHITE PARENTHESIS
+FF60          ; wide # Pe       FULLWIDTH RIGHT WHITE PARENTHESIS
 FFE0..FFE1    ; wide # Sc   [2] FULLWIDTH CENT SIGN..FULLWIDTH POUND SIGN
 FFE2          ; wide # Sm       FULLWIDTH NOT SIGN
 FFE3          ; wide # Sk       FULLWIDTH MACRON
 FFE4          ; wide # So       FULLWIDTH BROKEN BAR
 FFE5..FFE6    ; wide # Sc   [2] FULLWIDTH YEN SIGN..FULLWIDTH WON SIGN
 
-# Total code points: 102
+# Total code points: 104
 
 # ================================================
 

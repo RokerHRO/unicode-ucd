@@ -1,9 +1,9 @@
-# DerivedJoiningGroup-3.1.1.txt
+# DerivedJoiningGroup-3.2.0.txt
+# Date: 2002-03-19,23:30:54 GMT [MD]
 #
 # Unicode Character Database: Derived Property Data
 # Generated algorithmically from the Unicode Character Database
 # For documentation, see DerivedProperties.html
-# Date: 2001-08-03 02:00:03.5 GMT [MD]
 # Note: Unassigned and Noncharacter codepoints are omitted,
 #       except when listing Noncharacter or Cn.
 # ================================================
@@ -39,9 +39,10 @@
 
 0628          ; BEH # Lo       ARABIC LETTER BEH
 062A..062B    ; BEH # Lo   [2] ARABIC LETTER TEH..ARABIC LETTER THEH
+066E          ; BEH # Lo       ARABIC LETTER DOTLESS BEH
 0679..0680    ; BEH # Lo   [8] ARABIC LETTER TTEH..ARABIC LETTER BEHEH
 
-# Total code points: 11
+# Total code points: 12
 
 # ================================================
 
@@ -200,9 +201,10 @@
 # ================================================
 
 0642          ; QAF # Lo       ARABIC LETTER QAF
+066F          ; QAF # Lo       ARABIC LETTER DOTLESS QAF
 06A7..06A8    ; QAF # Lo   [2] ARABIC LETTER QAF WITH DOT ABOVE..ARABIC LETTER QAF WITH THREE DOTS ABOVE
 
-# Total code points: 3
+# Total code points: 4
 
 # ================================================
 
@@ -297,9 +299,14 @@
 0676..0677    ; WAW # Lo   [2] ARABIC LETTER HIGH HAMZA WAW..ARABIC LETTER U WITH HAMZA ABOVE
 06C4..06CB    ; WAW # Lo   [8] ARABIC LETTER WAW WITH RING..ARABIC LETTER VE
 06CF          ; WAW # Lo       ARABIC LETTER WAW WITH DOT ABOVE
-0718          ; WAW # Lo       SYRIAC LETTER WAW
 
-# Total code points: 14
+# Total code points: 13
+
+# ================================================
+
+0718          ; SYRIAC_WAW # Lo       SYRIAC LETTER WAW
+
+# Total code points: 1
 
 # ================================================
 
